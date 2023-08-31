@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Hi, I'm Carlos Henrique! <br/>
 
-<!--
-**s3ntinel4/s3ntinel4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Coming Soon ...
+
+
+<h2> 🤳 Social Medias:</h2>
+
+[<img align="left" alt="Carlos Henrique | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Carlos Henrique | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Carlos Henrique | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/botHunk
+[instagram]: https://www.instagram.com/crls.henrique
+[linkedin]: https://www.linkedin.com/in/carlos-henrique-farias-barbosa-3b97bb160
