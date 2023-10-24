@@ -1,5 +1,6 @@
 <h1>Hi, I'm Carlos Henrique! <br/>
 
+Cybersecurity student and on my way to be an SOC Analyst.
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
