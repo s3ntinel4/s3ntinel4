@@ -4,7 +4,7 @@ Cybersecurity student and on my way to be an SOC Analyst.
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - [Python Keylogger Project]
-
+- [Windows AD Installation Guide]
 
 <h2> 🤳 Social Medias:</h2>
 
@@ -16,3 +16,4 @@ Cybersecurity student and on my way to be an SOC Analyst.
 [instagram]: https://www.instagram.com/crls.henrique
 [linkedin]: https://www.linkedin.com/in/carlos-henrique-farias-barbosa-3b97bb160
 [Python Keylogger Project]: https://github.com/s3ntinel4/my-first-keylogger
+[Windows AD Installation Guide]: https://github.com/s3ntinel4/WindowsADinstall
