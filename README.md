@@ -1,5 +1,5 @@
 <h1>Hi, I'm Carlos Henrique!</h1> <br/>
-Cybersecurity student and on my way to be an SOC Analyst.
+Cybersecurity student and a muay thai fighter.
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
