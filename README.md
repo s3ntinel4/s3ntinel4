@@ -11,6 +11,7 @@ Cybersecurity student and a muay thai fighter.
 
 [<img align="left" alt="Carlos Henrique | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Carlos Henrique | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />]
 
 [instagram]: https://www.instagram.com/s3ntinel.sec
 [linkedin]: https://www.linkedin.com/in/carlos-henrique-farias-barbosa-3b97bb160
