@@ -6,6 +6,7 @@ Cybersecurity student and a muay thai fighter.
 - [Python Keylogger Project]
 - [Windows AD Installation Guide]
 - [Email Analyzer]
+- [EDR Home Lab]
 
 <h2> 🤳 Social Medias:</h2>
 
@@ -17,3 +18,4 @@ Cybersecurity student and a muay thai fighter.
 [Python Keylogger Project]: https://github.com/s3ntinel4/my-first-keylogger
 [Windows AD Installation Guide]: https://github.com/s3ntinel4/WindowsADinstall
 [Email Analyzer]: https://github.com/s3ntinel4/Email-Analyzer
+[EDR Home Lab]: https://github.com/s3ntinel4/EDR-Home-Lab
