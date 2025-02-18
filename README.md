@@ -1,5 +1,7 @@
 <h1>Hi, I'm Carlos Henrique!</h1> <br/>
-Cybersecurity student and a muay thai fighter.
+DevOps Student and a muay thai fighter.
+
+<h2>👨‍💻 DevOps Projects:</h2>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
