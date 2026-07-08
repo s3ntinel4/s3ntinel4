@@ -1,5 +1,5 @@
 <h1>Hi, I'm Carlos Henrique!</h1> <br/>
-DevOps Student and a muay thai fighter.
+QA Student and a muay thai fighter.
 
 <h2>👨‍💻 DevOps Projects:</h2>
 
