@@ -1,5 +1,5 @@
 <h1>Hi, I'm Carlos Henrique!</h1> <br/>
-QA Student and a muay thai fighter.
+Support Analyst transitioning to Q.A.
 
 <h2>👨‍💻 My Projects:</h2>
 
