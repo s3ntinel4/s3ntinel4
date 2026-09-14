@@ -1,14 +1,10 @@
 <h1>Hi, I'm Carlos Henrique!</h1> <br/>
 QA Student and a muay thai fighter.
 
-<h2>👨‍💻 DevOps Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
-
-- [Python Keylogger Project]
+- [Bash Performance Watcher]
 - [Windows AD Installation Guide]
-- [Email Analyzer]
-- [EDR Home Lab]
 
 <h2> 🤳 Social Medias:</h2>
 
@@ -17,7 +13,5 @@ QA Student and a muay thai fighter.
 
 [instagram]: https://www.instagram.com/s3ntinel.sec
 [linkedin]: https://www.linkedin.com/in/carlos-henrique-farias-barbosa-3b97bb160
-[Python Keylogger Project]: https://github.com/s3ntinel4/my-first-keylogger
 [Windows AD Installation Guide]: https://github.com/s3ntinel4/WindowsADinstall
-[Email Analyzer]: https://github.com/s3ntinel4/Email-Analyzer
-[EDR Home Lab]: https://github.com/s3ntinel4/EDR-Home-Lab
+[Bash Performance Watcher]: https://github.com/s3ntinel4/bash-performance-watcher
