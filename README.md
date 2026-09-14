@@ -1,5 +1,5 @@
 <h1>Oh, hi buddy!</h1> <br/>
-Support Analyst transitioning to Q.A.
+I work as a Support Analyst in the past 4 years and now i am transitioning to Q.A., feel free to check my projects😁
 
 <h2>👨‍💻 My Projects:</h2>
 
